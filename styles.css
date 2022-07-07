@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.text{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+header{
+    height: 9vh;
+}
+
+.generalContainer{
+    height: 90vh;
+}
+
+.productsContainer{
+    height: 100%;
+    padding: 20px;
+    overflow-y: scroll;
+}
+
+.cartContainer{
+    height: 100%;
+    overflow-y: scroll;
+    background-color: #dad0d029;
+}
+
+.productImg{
+    max-height: 500px;
+}
+
+.boton{
+    padding: 5px;
+}
